@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "From the Inside",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-17T14:32:18.494345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From The Inside",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_From_The_Inside_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fight from the Inside",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_Fight_from_the_Inside_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From the Inside (feat. The Acoustic Hippies from Hell)",
+      "artist": "Def Leppard feat. The Acoustic Hippies From Hell",
+      "has_synced": true,
+      "path": "select/03_From_the_Inside_(feat._The_Acoustic_Hippies_from_Hell)_Def_Leppard_feat._The_Acoustic_Hippies_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "From The Inside",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/04_From_The_Inside_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burning From The Inside",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/05_Burning_From_The_Inside_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burning from the Inside",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/06_Burning_from_the_Inside_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "From the Inside - Live",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/07_From_the_Inside_-_Live_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "From The Inside [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_From_The_Inside_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From The Inside - Live from Sydney, 2010",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/09_From_The_Inside_-_Live_from_Sydney,_2010_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "From the Inside (Single Edit)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_From_the_Inside_(Single_Edit)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "From The Inside - Live LP Underground Tour 2003",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/11_From_The_Inside_-_Live_LP_Underground_Tour_2003_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From the Inside [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_From_the_Inside_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fight From the Inside",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Fight_From_the_Inside_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "From The Inside",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/14_From_The_Inside_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From The Inside",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/15_From_The_Inside_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "From the Inside",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/16_From_the_Inside_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Midnight from the Inside Out",
+      "artist": "The Black Crowes",
+      "has_synced": true,
+      "path": "select/17_Midnight_from_the_Inside_Out_The_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "From The Inside (feat. The Acoustic Hippies From Hell)",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/18_From_The_Inside_(feat._The_Acoustic_Hippies_From_Hell)_Def_Leppard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From The Inside",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_From_The_Inside_Linkin_Park.txt"
+    }
+  ]
+}
